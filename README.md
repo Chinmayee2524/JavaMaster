@@ -78,3 +78,5 @@ http://localhost:5000
 - Check the terminal for **build errors**
 - Verify the **development server** is running correctly
 
+### Screenshot
+![image](https://github.com/user-attachments/assets/9a17872e-93b6-41b8-9991-46006a432015)
